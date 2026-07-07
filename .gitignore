@@ -1,0 +1,23 @@
+# IQRAT Backend - Gitignore
+
+# Environments
+.env
+venv/
+env/
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific
+logs/
+*.log
+static/
